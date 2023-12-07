@@ -1,7 +1,7 @@
 <template>
     <section class="bg-[#FAFBFC] pt-12">
         <div
-            class="flex flex-col gap-3 px-2 lg:flex-row lg:items-center lg:gap-4 lg:w-[80%] lg:mx-auto"
+            class="flex flex-col gap-3 px-2 md:flex-row md:items-center md:gap-4 lg:w-[80%] lg:mx-auto"
         >
             <div class="flex flex-col gap-3 lg:max-w-[32rem]">
                 <h1 class="text-4xl font-bold">

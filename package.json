@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/splitting": "^1.0.5",
+    "gsap": "^3.12.3",
+    "splitting": "^1.0.6",
     "vue": "^3.3.4"
   },
   "devDependencies": {

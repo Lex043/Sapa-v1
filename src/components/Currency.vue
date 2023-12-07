@@ -9,7 +9,7 @@
                     These currencies has been saving lives since 1900
                 </p>
             </header>
-            <section class="flex flex-col lg:flex-row gap-6">
+            <section class="flex flex-col md:flex-row gap-6">
                 <div class="flex flex-col gap-2">
                     <img src="../assets/Rectangle 1.png" alt="" />
 
@@ -51,4 +51,9 @@
     </section>
 </template>
 
-<script setup></script>
+<script setup>
+import gsap from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
+import { onMounted, ref } from "vue";
+gsap.registerPlugin(ScrollTrigger);
+</script>
