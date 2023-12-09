@@ -18,7 +18,7 @@
                     />
 
                     <button
-                        class="bg-[#215056] text-white text-sm py-2 px-2 w-fit md:w-[8rem] rounded-md flex gap-1 items-center justify-center"
+                        class="bg-[#215056] text-white text-sm py-2 px-2 w-[13rem] md:w-[8rem] rounded-md flex gap-1 items-center justify-center"
                     >
                         Donate now
                         <span
